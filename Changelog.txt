@@ -1,1 +1,4 @@
-I smell like tomato
+- Made an epic auto updater.
+- Client now automatically loads changelog from github.
+
+- ReturnVoidex#0001
