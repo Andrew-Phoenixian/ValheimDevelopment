@@ -1,4 +1,5 @@
 - Made an epic auto updater.
 - Client now automatically loads changelog from github.
+- Added chat colors for special people. Tags coming when I'm not lazy.
 
 - ReturnVoidex#0001
